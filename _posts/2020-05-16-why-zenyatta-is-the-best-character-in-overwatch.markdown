@@ -3,6 +3,14 @@ title: Why Zenyatta is the Best Character in Overwatch
 date: 2020-05-16 21:37:00 Z
 ---
 
+---
+layout: "post"
+title: "Why Zenyatta is the Best Character in Overwatch"
+description: "A Critical Analysis"
+categories: ["blog"]
+tags: ["games", "travesty", "overwatch"]
+---
+
 ### Witness to a Travesty
 
 I recently listened to Giant Bomb's Game of the Year 2016 deliberations for the second time. On this repeat listen, I observed something that I found myself unable to ignore.
