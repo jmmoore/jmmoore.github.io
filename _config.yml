@@ -2,8 +2,8 @@
 title:               Jacob Moore
 tagline:             'A human being'
 description:         'I read, and I write, and I try to take care of myself.'
-url:                 http://moorejm.com
-baseurl:             'https://moorejm.com'
+url:                 https://moorejm.com
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
