@@ -3,14 +3,6 @@ title: Why Zenyatta is the Best Character in Overwatch
 date: 2020-05-16 21:37:00 Z
 ---
 
----
-layout: "post"
-title: "Why Zenyatta is the Best Character in Overwatch"
-description: "A Critical Analysis"
-categories: ["blog"]
-tags: ["games", "travesty", "overwatch"]
----
-
 ### Witness to a Travesty
 
 I recently listened to Giant Bomb's Game of the Year 2016 deliberations for the second time. On this repeat listen, I observed something that I found myself unable to ignore.
@@ -35,8 +27,6 @@ My case is simple. It comes down to one word.
 
 Zenyatta's philosophy is embedded into their mechanics in a more meaningful way than any other character in the game.
 
-![meditating](/assets/img/zenyatta/balance.gif)
-
 All of Zenyatta's abilities revolve around their use of Orbs.
 
 Zenyatta's main method of attack is to use <span style="color:blue">**Orbs of Destruction**</span>. They can either fire the orbs one at a time or spend some time in focus, charging up their orbs. That charged attack, called an Orb Volley, fires the charged Orbs in rapid succession. If properly directed, the Orb Volley deals a significant amount of burst damage.
@@ -47,15 +37,9 @@ This Orb amplifies the damage that its recipient takes. It also places a marker 
 
 The <span style="color:C19D0D">**Orb of Harmony**</span>, on the other hand, is intended only for Zenyatta's team. This Orb provides 30 points of healing per second, and Zen can change the recipient of the Harmony Orb to any teammate within their line of sight with no cooldown.
 
-![orbs](/assets/img/zenyatta/harmonyanddiscord.gif)
-
-<span style="color:orange">**Transcendence**</span>, Zenyatta's Ultimate Ability, is another beast entirely. When activated, Zenyatta channels a higher state of existence. They cannot use weapons or other abilities, but their movement speed increases dramatically and they provide 10 meter radius of healing at 300 health per second, **ten times** the rate of the Orb of Harmony.
-
-![transcendence](/assets/img/zenyatta/transcendence.jpg)
+<span style="color:orange">**Transcendence**</span>, Zenyatta's Ultimate Ability, is another beast entirely. When activated, Zenyatta channels a higher state of existence. They cannot use weapons or other abilities, but their movement speed increases dramatically and they provide a 10-meter radius of healing at 300 health per second, **ten times** the rate of the Orb of Harmony.
 
 On top of all of that, Zenyatta has reached a state of perfect internal balance, allowing them to FLOAT ABOVE THE FRICKIN' GROUND.
-
-![pixels floating](/assets/img/zenyatta/pixelart_floating.gif)
 
 ### You may be thinking...
 
@@ -64,8 +48,6 @@ On top of all of that, Zenyatta has reached a state of perfect internal balance,
 What makes Zenyatta so great is that they strike a delicate balance between offensive power and defensive utility, providing them with the ability to affect the pace and flow of any encounter.
 
 This also makes them more difficult to play than your average healer. To be a successful Zenyatta, players must maintain this balance, healing teammates, debuffing enemies and doing damage all in equal measure.
-
-![satsang skin](/assets/img/zenyatta/satsang.gif)
 
 Who Zenyatta is as a character is expressed not only in their role as a hybrid DPS/Healer, but that sense of equanimity manifests in the play experience itself! This, combined with the mind-blowing alternate skin above, is why
 
