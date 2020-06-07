@@ -17,7 +17,7 @@ I live in Wichita, Kansas. Some other things about me:
 Some things about this site:
 
 * It uses the Lanyon theme of [Poole](https://getpoole.com/), a pre-made template for Jekyll static sites.
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* It's developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * I use [Visual Studio Code](https://code.visualstudio.com/) to manage the pages and the GitHub repo.
 
 If you want to chat, send me a message at <jacob@moorejm.com>.
