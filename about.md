@@ -3,27 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm Jacob.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I live in Wichita, Kansas. Some other things about me:
 
-There are currently two themes built on Poole:
+* I'm a cat person.
+* I'm a fraternal twin.
+* I'm a graduate of Seth Godin's altMBA (Udon gang! :ramen:)
+* I play the saxophone.
+* I love to read.
+* I'm passionate about mental health and emotional intelligence.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Some things about this site:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
+* It uses the Lanyon theme of [Poole](https://getpoole.com/), a pre-made template for Jekyll static sites.
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+* I use [Visual Studio Code](https://code.visualstudio.com/) to manage the pages and the GitHub repo.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you want to chat, send me a message at <jacob@moorejm.com>.
 
 Thanks for reading!

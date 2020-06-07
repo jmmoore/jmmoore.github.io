@@ -1,9 +1,11 @@
 ---
-title: Welcome to my website
+title: Hello there.
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Welcome
 ---
 
-There isn't much going on here yet, but watch this space
+I'm Jacob Moore. I'll be writing here, and creating a portfolio of shipped work. Click the hamburger over in the top left to see more.
+
+I want this page to contain the last few posts that I've written, but I haven't figured out how to do that yet.
