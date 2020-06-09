@@ -6,7 +6,7 @@ categories: ["life"]
 tags: ["blog", "linux", "conference", "foss"]
 ---
 
-## Kansas Linux Fest (2017-present)
+## Kansas Linux Fest (2017)
 
 ### Backstory
 
