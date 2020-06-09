@@ -3,9 +3,6 @@ layout: "post"
 title: "Remaking a Relationship"
 description: "How to talk to your dad like a grown-up"
 ---
-
-## Remaking a Relationship
-
 On February 23, I was less than 24 hours removed from ten days of total silence. I had completed a [Vipassana retreat](http://dhamma.org/) under the instruction of [S.N. Goenka](https://en.wikipedia.org/wiki/S._N._Goenka) and was spending the day driving from the center in Kaufman, TX, to my home in Wichita.
 
 After stopping to have lunch with a friend in Norman, Oklahoma, I hit the road again and my mom called. She said that my dad had been in the hospital for a couple days. There was a blockage in his lower intestine and the doctors were struggling to understand what was causing it. It didn't look good.
@@ -57,7 +54,9 @@ Establishing good boundaries is critical for cases where spiritual guidance isn'
 
 My dad shared some insights into his own relationship with my mother; that they made a commitment to one another that they would talk *more* when things were hard, to communicate and work through problems. They had no illusions that there would not be difficulty. I started to poke around my childhood, and the conversation turned to John.
 
-My twin and I have an older half-brother who (for a number of reasons) stayed with my maternal grandparents when we left my hometown in 1995. This split has caused an already fractious relationship to grow even chillier. John and my dad are only now starting to do the work to repair their relationship. Despite being John's legal father, my parents had a power struggle with my maternal grandparents about the boy. He was the first grandchild, their golden boy, and they felt they knew best how to parent John from the time he was born.
+My twin and I have an older half-brother who (for a number of reasons) stayed with my maternal grandparents when we left my hometown in 1995. This split has caused an already fractious relationship to grow even chillier. John and my dad are only now starting to do the work to repair their relationship. 
+
+Despite being John's legal father, my parents had a power struggle with my maternal grandparents about the boy. He was the first grandchild, their golden boy, and they felt they knew best how to parent John from the time he was born.
 
 I started to make some connections internally at that time. The sudden dissolution of a parent/child relationship must have had emotional impacts, and possibly far-reaching ones. I didn't voice this question, and this is perhaps a missed opportunity.
 
