@@ -31,3 +31,5 @@ If you have some time-based things, like "exercise for an hour," cut the time in
 If you look at this list and it feels insignificant, that's *exactly the point*.
 
 Here's my list:
+
+![Minimum Viable Day notecard](/uploads/minimumviableday.jpeg)
