@@ -36,7 +36,9 @@ Once you've got this list, cut it down to five or so. We can only hold so many t
 
 If you have some time-based things, like *exercise for an hour*, cut the time in half.
 
-If you look at this list and it feels insignificant, that's *exactly the point*.
+If you look at this list and it feels insignificant, that's *exactly the point*. 
+
+Once you're crushing your base MVD with consistency, move the goalposts. Not too much.
 
 Here's my list:
 
