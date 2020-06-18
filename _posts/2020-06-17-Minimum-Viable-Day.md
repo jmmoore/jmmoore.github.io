@@ -10,11 +10,13 @@ With the best intentions, I set lofty personal and professional goals.
 
 For a while, everything is great. I'm hitting my marks, doing everything on my list.
 
-Then, something happens. We miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
+Then, something happens. 
+
+We miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
 
 After a temporary setback, everything falls apart. 
 
-If you're anything like me, you've gone through this exact cycle. For me, it's happened over and over.
+If you're anything like me, you've gone through this exact cycle.
 
 Here's what I'm telling myself in an effort to short-circuit it:
 
@@ -26,7 +28,7 @@ It's important to me to have big goals. If *someone* is doing what I want to do,
 
 The reality is that we can't do it all in a day, or in a week. So, my suggestion:
 
-<p align="center">Establish a **Minimum Viable Day**.</p>
+<p align="center">Establish a <strong>Minimum Viable Day</strong>.</p>
 
 Take a notecard and write down a set of things which, if achieved in a day, would provide you some satisfaction.
 
