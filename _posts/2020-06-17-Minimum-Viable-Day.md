@@ -12,9 +12,9 @@ For a while, everything is great. I'm hitting my marks, doing everything on my l
 
 Then, something happens. 
 
-We miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
+I miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
 
-After a temporary setback, everything falls apart. 
+After a temporary setback, everything falls apart.
 
 If you're anything like me, you've gone through this exact cycle.
 
