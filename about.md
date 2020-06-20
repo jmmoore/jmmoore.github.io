@@ -20,6 +20,10 @@ Some things about this site:
 * It's developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * I use [Visual Studio Code](https://code.visualstudio.com/) to manage the pages and the GitHub repo.
 
+---
+## Contact
+
 If you want to chat, send me a message at <jacob@moorejm.com>.
+I do use social media, but only check it sporadically. Email is by far the easiest way to reach me.
 
 Thanks for reading!
