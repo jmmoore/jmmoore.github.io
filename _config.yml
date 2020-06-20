@@ -4,7 +4,7 @@ tagline:             'A human being'
 description:         'I read, and I write, and I try to take care of myself.'
 url:                 https://moorejm.com
 baseurl:             ''
-paginate:            5
+paginate:            3
 permalink:           pretty
 
 # About/contact
