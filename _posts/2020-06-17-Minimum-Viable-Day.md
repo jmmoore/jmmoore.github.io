@@ -12,15 +12,15 @@ For a while, everything is great. I'm hitting my marks, doing everything on my l
 
 Then, something happens. 
 
-We miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
+I miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game. 
 
-After a temporary setback, everything falls apart. 
+After a temporary setback, everything falls apart.
 
 If you're anything like me, you've gone through this exact cycle.
 
 Here's what I'm telling myself in an effort to short-circuit it:
 
-*Lower your expectations.*
+<p align="center"><em>Lower your expectations.</em></p>
 
 It's not what any of us want to hear. We want to be superheroes, reading two books every week while also exercising every day and never eating a calorie over our allotted amount.
 
@@ -38,7 +38,7 @@ If you have some time-based things, like *exercise for an hour*, cut the time in
 
 If you look at this list and it feels insignificant, that's *exactly the point*. 
 
-Once you're crushing your base MVD with consistency, move the goalposts. Not too much.
+Once you're crushing your base MVD with consistency, move the goalposts. Not too much at once.
 
 Here's my list:
 
