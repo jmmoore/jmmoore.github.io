@@ -3,7 +3,6 @@ layout: "post"
 title: Minimum Viable Day
 description: How to make the minimum happen
 ---
-<description>How to make the most with the least.</description>
 
 I have a habit of overcommitting.
 
