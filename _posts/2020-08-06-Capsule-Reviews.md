@@ -70,3 +70,5 @@ Having said that, I do believe that it makes its point early on and slightly ove
 
 ---
 Thanks for reading these reviews! If you have thoughts or feedback or you want to recommend a book to me, [reach out!](/about)
+
+![A stack of books I've read recently](/uploads/recent_reads_august_2020.png)
