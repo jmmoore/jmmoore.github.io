@@ -22,4 +22,6 @@ That there are times where it's appropriate to lean into this tension, to let it
 
 My therapist tells me that self-care isn't always about doing the easiest thing. If we don't address the core concerns of existence, eating and bathing and dressing, our self-esteem plummets. 
 
-So, when an opportunity presents itself to step out of your comfort zone, to try something that's hard or expose a weakness, take it. Especially if it's trivial. It'll give you good practice for when you *really* have to step up.
+So, when an opportunity presents itself to step out of your comfort zone, to try something that's hard or expose a weakness, take it. Especially if it's trivial.
+
+It's good practice for when you *really* have to step up.
