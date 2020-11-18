@@ -46,7 +46,7 @@ Cormac McCarthy is one of those authors who it's really fashionable to *say* you
 
 *Blood Meridian* is not a pleasurable read, really. Similar to *The Black Company*, it's dense with violence and uncomfortable scenery. A dark satire of the western novel, it follows an unnamed protagonist from birth to death, running away from his father at fourteen and taking up with a "militia" tasked with clearing out Indian presence in what is now South Texas and Northern Mexico. 
 
-The militia is loosely based on a real group of men who committed real atrocities against Mexicans and Native Americans alike. The book is compelling primarily for true villain, a hairless albino oracle named Judge Holden. Holden is a polyglot among illiterate men, preaching to them about his higher purpose, which is never made fully clear. He's brilliant and charismatic and seemingly unkillable.
+The militia is loosely based on a real group of men who committed real atrocities against Mexicans and Native Americans alike. The book is compelling primarily for its true villain, a hairless albino oracle named Judge Holden. Holden is a polyglot among illiterate men, preaching to them about his higher purpose, which is never made fully clear. He's brilliant and charismatic and seemingly unkillable.
 
 Holden is a compelling character, but the rest of the book is...kind of boring. I love McCarthy's use of language; his turns of phrase are unlike any other. I think that his frank depictions of terrible violence reinforce the theme of the pointlessness of that violence, but it did not make for a remarkable plot. I'm glad that I've read *Blood Meridian* but am happy to have finished it.
 
@@ -67,3 +67,8 @@ What really struck me about this book is how warfare changes people, how it ages
 Transitions of leadership in social movements are always difficult. I drew parallels between this scenario and the Civil Rights movement. Martin Luther King's aversion to violence did not trickle down to his successors (or even his contemporary, Malcolm X). Men like Stokely Carmichael (later Kwame Ture) did not shy away from direct physical confrontation, with mixed results.
 
 The chapters about the hunger strikes of Bobby Sands and other political prisoners were intensely compelling. Recommended.
+
+---
+Thanks for reading these reviews! If you have thoughts or feedback or you want to recommend a book to me, [reach out!](/about)
+
+![A stack of books I've read recently](/uploads/recent_reads_nov_2020_2.jpeg)
