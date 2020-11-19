@@ -4,6 +4,8 @@ title: "More November 2020 Capsule Reviews"
 description: "More book reviews"
 ---
 
+![A stack of books I've read recently](/uploads/recent_reads_nov_2020_2.jpeg)
+
 I decided that I was on a bit of a roll and that I'd continue to catch up on these short reviews.
 
 I find these useful because it forces me to think more critically about what I'm consuming. Often I find myself consuming without thinking, whether it's a television show or a video game or a book. Putting thoughts down is a reflective act that I want to do more of.
@@ -70,5 +72,3 @@ The chapters about the hunger strikes of Bobby Sands and other political prisone
 
 ---
 Thanks for reading these reviews! If you have thoughts or feedback or you want to recommend a book to me, [reach out!](/about)
-
-![A stack of books I've read recently](/uploads/recent_reads_nov_2020_2.jpeg)

@@ -4,6 +4,8 @@ title: "Capsule Reviews - November 2020"
 description: "More book reviews"
 ---
 
+![A stack of books I've read recently](/uploads/recent_reads_nov_2020.jpeg)
+
 When I finish a book, I put it in a stack on top of my bookcases, and refuse to properly shelve it until I can annotate it for my commonplace book and write a short review.
 
 I've assembled quite a backlog since August, when I last wrote one of these. 
@@ -72,5 +74,3 @@ As the protagonist blurs the lines of good practice (and good taste) in pursuit 
 
 ---
 Thanks for reading these reviews! If you have thoughts or feedback or you want to recommend a book to me, [reach out!](/about)
-
-![A stack of books I've read recently](/uploads/recent_reads_nov_2020.jpeg)
