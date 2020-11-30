@@ -4,6 +4,8 @@ title: "November Reviews III: Way, Way Behind"
 description: " book reviews"
 ---
 
+![A stack of books I've read recently](/uploads/recent_reads_nov_2020_3.jpeg)
+
 I'm keeping the streak going with these and catching up to current. Up to now, I've reviewed every book that I read. The problem with that is that I don't have meaningful thoughts on all of them. 
 
 So, with that said, if you want to see all the books I read (for whatever reason), [check out my goodreads!](https://www.goodreads.com/user/show/62693968-jacob-moore)
@@ -69,5 +71,3 @@ This is easily the funniest book I've read this year, and you should not miss it
 
 ---
 Thanks for reading these reviews! If you have thoughts or feedback or you want to recommend a book to me, [reach out!](/about)
-
-![A stack of books I've read recently](/uploads/recent_reads_nov_2020_3.jpeg)
