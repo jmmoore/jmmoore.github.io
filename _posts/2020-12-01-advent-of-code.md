@@ -14,10 +14,8 @@ The puzzles can be completed by people with limited programming knowledge and so
 
 For example: the first puzzle of 2020 asks you to help Santa's elves with their finances. They give you a list of numbers and ask you to do this (I'm paraphrasing):
 
->>>
-Two numbers in this list add up to 2020.
+>Two numbers in this list add up to 2020.
 Find those two numbers, and provide us the result you get when you multiply them.
->>>
 
 The way I solved this problem was to go through each number in the list, subtract the number from 2020, and see if the remainder was a number on the list. That gave me the matching pair, and the rest was history.
 
